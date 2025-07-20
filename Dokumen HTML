@@ -1,0 +1,11 @@
+<html>
+    <head>
+        <title> Selamat datang di html saya </title>
+    </head>
+
+    <body bgcolor = #c68efd>
+        <p><b><U>Dokumen HTML Pertama</U></b></p>
+        <p>Hari ini saya belajar <b>HTML</b></p>
+        rumus kimia air adalah = O<sub>2</sub>
+    </body>
+</html>
